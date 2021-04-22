@@ -23,8 +23,7 @@ Dev dependencies:
 - json seriazable
 - injection generator
 
-<img src="hhttps://user-images.githubusercontent.com/45583824/115748806-b7585580-a3c0-11eb-89e7-37d380788919.PNG" width="250" height="500">
-<img src="https://user-images.githubusercontent.com/45583824/115748815-b8898280-a3c0-11eb-8f5e-9777642a3b48.PNG" width="250" height="500">
+<img src="https://user-images.githubusercontent.com/45583824/115748806-b7585580-a3c0-11eb-89e7-37d380788919.PNG" width="250" height="500"> <img src="https://user-images.githubusercontent.com/45583824/115748815-b8898280-a3c0-11eb-8f5e-9777642a3b48.PNG" width="250" height="500">
 
 
 ## Getting Started
